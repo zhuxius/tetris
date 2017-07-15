@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Tetris_data" version="1.3.0" audacityversion="2.0.6" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="12.4074406315" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds">
+	<tags>
+		<tag name="comment" value="http://www.archive.org/details/TetrisThemeMusic"/>
+		<tag name="encoder" value="Lavc52.66.0"/>
+	</tags>
+	<wavetrack name="Tetris" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3678720">
+				<waveblock start="0">
+					<simpleblockfile filename="e000074c.au" len="524288" min="-0.714844" max="0.707977" rms="0.172639"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000570.au" len="524288" min="-0.762665" max="0.718719" rms="0.168156"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000445.au" len="524288" min="-0.760712" max="0.71759" rms="0.190566"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000208.au" len="524288" min="-0.724213" max="0.70166" rms="0.173061"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000174.au" len="524288" min="-0.704559" max="0.716858" rms="0.170598"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000ecb.au" len="524288" min="-0.757721" max="0.712036" rms="0.17842"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e000044d.au" len="524288" min="-0.730621" max="0.693207" rms="0.18644"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e00008f2.au" len="8704" min="-0.631195" max="0.343323" rms="0.042767"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Tetris" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="3678720">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000c38.au" len="524288" min="-0.719147" max="0.707977" rms="0.172629"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00004b8.au" len="524288" min="-0.762665" max="0.718719" rms="0.168141"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e00000d0.au" len="524288" min="-0.760712" max="0.71759" rms="0.190558"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000e1f.au" len="524288" min="-0.724213" max="0.70166" rms="0.173063"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000cf2.au" len="524288" min="-0.704559" max="0.707123" rms="0.170596"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e00008b1.au" len="524288" min="-0.757721" max="0.712036" rms="0.178417"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000e94.au" len="524288" min="-0.730621" max="0.696045" rms="0.186446"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e00004ef.au" len="8704" min="-0.631195" max="0.343353" rms="0.042835"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
