@@ -94,7 +94,10 @@ public class Shape : MonoBehaviour
                 {
                     IncreaseTextUIScore(rowsDeleted);
                 }
-
+                while (Input.GetKey("a") || Input.GetKey("d"))
+                {
+                    enabled = true;
+                }
                 enabled = false;
 
                 FindObjectOfType<ShapeSpawner>().SpawnShape();
